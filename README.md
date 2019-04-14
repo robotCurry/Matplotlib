@@ -6,4 +6,4 @@
 ## Day02:
 ![image](https://github.com/stepfencurryxiao/Matplotlib/blob/master/image/day02.png)
 ## Day03:
-![image](https://github.com/stepfencurryxiao/Matplotlib/blob/master/image/day03.png)
+![image](https://github.com/stepfencurryxiao/Matplotlib/blob/master/image/Day03.png)
